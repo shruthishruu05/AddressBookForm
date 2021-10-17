@@ -184,7 +184,8 @@ td img {
   margin-bottom: 8px;
 }
 
-.table-hdr {
+.table-hdr 
+{
   text-align: left;
   font: normal normal bold 20px/20px Roboto;
   letter-spacing: 0px;
